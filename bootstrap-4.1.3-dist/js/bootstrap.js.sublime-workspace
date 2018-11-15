@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"print",
+				"print_list"
+			],
+			[
+				"forma",
+				"formats"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"num",
+				"num_unique_words"
+			],
+			[
+				"met",
+				"meta_tags_content"
+			],
+			[
+				"a",
+				"a_tags"
+			],
+			[
+				"meta",
+				"meta_tags"
+			],
+			[
+				"get",
+				"get_text"
+			],
+			[
+				"html",
+				"html_string"
+			],
+			[
+				"requ",
+				"requestobject"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"ret",
+				"result"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"python classo.py",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ligia/Desktop/webpagecourse/peer1/bootstrap.css",
+		"/home/ligia/djangopractice/requirements.txt",
+		"/home/ligia/djangomarian/mysiteII/mysiteII/settings.py",
+		"/home/ligia/djangomarian/mysiteII/settings.py",
+		"/home/ligia/djangomarian/booksite/settings.py",
+		"/home/ligia/djangomarian/blog/models.py",
+		"/home/ligia/djangogirls/mysite/settings.py",
+		"/home/ligia/djangogirls/blog/templates/blog/base.html",
+		"/home/ligia/djangogirls/blog/admin.py",
+		"/home/ligia/djangogirls/mysite/urls.py",
+		"/home/ligia/djangogirls/blog/urls.py",
+		"/home/ligia/djangogirls/blog/views.py",
+		"/home/ligia/djangogirls/blog/templates/blog/add_comment_to_post.html",
+		"/home/ligia/djangogirls/blog/static/css/blog.css",
+		"/home/ligia/djangogirls/blog/templates/blog/post_list.html",
+		"/home/ligia/djangogirls/blog/forms.py",
+		"/home/ligia/djangogirls/blog/templates/blog/post_detail.html",
+		"/home/ligia/djangogirls/blog/templates/blog/post_edit.html",
+		"/home/ligia/djangogirls/blog/templates/blog/post_draft_list.html",
+		"/home/ligia/djangogirls/blog/models.py",
+		"/home/ligia/djangogirls/blog/templates/registration/login.html",
+		"/home/ligia/djangogirls/.gitignore",
+		"/home/ligia/djangogirls/blog/templates/blog/forms.py",
+		"/home/ligia/djangogirls/mysite/mysite/urls.py",
+		"/home/ligia/djangogirls/urls.py",
+		"/home/ligia/Desktop/Pricesearcher/word_clustering.py",
+		"/home/ligia/Desktop/Pricesearcher/cluster_products.py",
+		"/home/ligia/Desktop/Aiden/test.py",
+		"/home/ligia/djangogirls/mysite/mysite/wsgi.py",
+		"/home/ligia/Desktop/Aiden/diagonal.py",
+		"/home/ligia/Desktop/Aiden/string_func3.py",
+		"/home/ligia/Desktop/Aiden/ratios.py",
+		"/home/ligia/Desktop/Aiden/string_func5.py",
+		"/home/ligia/Desktop/Aiden/string_func.py",
+		"/home/ligia/Desktop/Bloom/to send/readme.txt",
+		"/home/ligia/Desktop/Bloom/to send/bloomfilter.py",
+		"/home/ligia/Desktop/Bloom/test_bloomfilter.py",
+		"/home/ligia/Desktop/Bloom/bloomfilter.py",
+		"/home/ligia/Desktop/Bloom/bloom_test.py",
+		"/home/ligia/Desktop/Bloom/testo.py",
+		"/home/ligia/Desktop/Bloom/old/bloomfilter.py",
+		"/home/ligia/Desktop/Bloom/bloomfilter_old.py",
+		"/home/ligia/Desktop/Bloom/test_bloomfilter_old.py",
+		"/home/ligia/Desktop/Fetch AI/puzzle.py",
+		"/home/ligia/Desktop/Bloom/cluster_products.py",
+		"/home/ligia/Desktop/PolyAI/dp.py",
+		"/home/ligia/Desktop/PolyAI/final_dp_sent.py",
+		"/home/ligia/Desktop/PolyAI/prub.py",
+		"/home/ligia/Desktop/Fetch AI/cdag.py",
+		"/home/ligia/Desktop/PolyAI/home_work.py",
+		"/home/ligia/Desktop/PolyAI/final_dp.py",
+		"/home/ligia/Desktop/Fetch AI/grafo.py",
+		"/home/ligia/Desktop/Fetch AI/dag.py",
+		"/home/ligia/Desktop/Fetch AI/grafo6.py",
+		"/home/ligia/Desktop/Fetch AI/grafo5.py",
+		"/home/ligia/Desktop/Fetch AI/grafo2.py",
+		"/home/ligia/Desktop/cannon/some/firstTk.py",
+		"/home/ligia/Desktop/cannon/some/calculator.py",
+		"/home/ligia/Desktop/cannon/some/secondTk.py",
+		"/home/ligia/Desktop/cannon/some/guess.py",
+		"/home/ligia/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ligia/Desktop/JPMorgan/Coding/Employee/Employee/bin/pip",
+		"/home/ligia/Desktop/JPMorgan/Coding/Employee/Employee/bin/pip3.4",
+		"/home/ligia/mercurytide/ML.png",
+		"/home/ligia/Desktop/JPMorgan/Coding/classo.py",
+		"/home/ligia/Desktop/geeno.py",
+		"/home/ligia/kaldi-gstreamer-server/kaldigstserver/worker.py",
+		"/home/ligia/kaldi-gstreamer-server/kaldigstserver/setup.py",
+		"/home/ligia/kaldi-gstreamer-server/kaldigstserver/decoder2_test.py",
+		"/home/ligia/kaldi-gstreamer-server/kaldigstserver/decoder2.py",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/package.json",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/App_Resources/Android/app.gradle",
+		"/home/ligia/Desktop/tempa/App_Resources/Android/app.gradle",
+		"/home/ligia/Desktop/BEN/app/App_Resources/Android/app.gradle",
+		"/home/ligia/Desktop/PETE/pete/app/package.json",
+		"/home/ligia/Desktop/PETE/pete/package.json",
+		"/home/ligia/Desktop/BEN/package.json",
+		"/home/ligia/Desktop/BEN/app/package.json",
+		"/home/ligia/Desktop/PETE/pete/app/App_Resources/Android/app.gradle",
+		"/home/ligia/Desktop/PETER/app/package.json",
+		"/home/ligia/Desktop/BEN/app/main-view-model.ts",
+		"/home/ligia/Desktop/BEN/app/main-page.ts",
+		"/home/ligia/Desktop/BEN/app/App_Resources/Android/AndroidManifest.xml",
+		"/home/ligia/Desktop/PETER/app/App_Resources/Android/app.gradle",
+		"/home/ligia/Desktop/PETER/app/App_Resources/Android/AndroidManifest.xml",
+		"/home/ligia/Desktop/PETER/package.json",
+		"/home/ligia/Desktop/BENJAMIN/app/package.json",
+		"/home/ligia/Desktop/BENJAMIN/package.json",
+		"/home/ligia/Desktop/BENJAMIN/platforms/android/build.gradle",
+		"/home/ligia/Desktop/BENJAMIN/app/App_Resources/Android/app.gradle",
+		"/home/ligia/version-control/reflections/lesson_1_reflections.txt",
+		"/home/ligia/Desktop/HarryPotter/app/main-page.js",
+		"/home/ligia/Desktop/pino/app/app.ts",
+		"/home/ligia/Desktop/lec/package.json",
+		"/home/ligia/Desktop/tns-chat-master/app/chat.component.html",
+		"/home/ligia/Desktop/tns-chat-master/app/time-ago.pipe.ts",
+		"/home/ligia/Desktop/tns-chat-master/app/package.json",
+		"/home/ligia/Desktop/tns-chat-master/app/time-ago.pipe.js.map",
+		"/home/ligia/Desktop/tns-chat-master/app/time-ago.pipe.js",
+		"/home/ligia/Desktop/tns-chat-master/app/main.js.map",
+		"/home/ligia/Desktop/tns-chat-master/app/main.js",
+		"/home/ligia/Desktop/tns-chat-master/app/chat.service.ts",
+		"/home/ligia/Desktop/tns-chat-master/app/app.component.html",
+		"/home/ligia/Desktop/tns-chat-master/app/chat.service.js",
+		"/home/ligia/Desktop/tns-chat-master/app/chat.component.ts",
+		"/home/ligia/Desktop/tns-chat-master/app/chat.component.css",
+		"/home/ligia/Desktop/tns-chat-master/app/app.css",
+		"/home/ligia/Desktop/tns-chat-master/app/app.component.ts",
+		"/home/ligia/Desktop/tns-chat-master/app/app.component.js.map",
+		"/home/ligia/Desktop/tns-chat-master/app/App_Resources/Android/drawable-ldpi/background.png",
+		"/home/ligia/Desktop/tns-chat-master/app/app.component.js",
+		"/home/ligia/Desktop/tns-chat-master/app/main.ts",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/App_Resources/Android/drawable-hdpi/icon.png",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/App_Resources/Android/drawable-nodpi/splashscreen.9.png",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/references.d.ts",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/platforms/android/libs/runtime-libs/nativescript.aar",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/application/application.js",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/platforms/android/build/intermediates/assets/F0/debug/app/app.js",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/node_modules/tns-core-modules/application/package.json",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/node_modules/tns-core-modules/application/application.android.js",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/node_modules/nativescript-chatview/index.js",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/platforms/android/src/main/java/com/tns/NativeScriptApplication.java",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/app/App_Resources/Android/AndroidManifest.xml",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/livesync.cmd",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/references.d.ts",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/tsconfig.json",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/hooks/before-prepare/nativescript-dev-typescript.js",
+		"/home/ligia/Desktop/nativescript-chatview-master/demo/hooks/before-watch/nativescript-dev-typescript.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_target_probab_fp",
+			"_num_elements",
+			"print",
+			"numpy",
+			"deque",
+			"DiskAdjecencyList",
+			"geti",
+			"No",
+			"infor",
+			"no byte",
+			"links",
+			"x for x  in meta_tags if x.get('name')\n		and x",
+			"set_property",
+			"_on_full_result",
+			"full",
+			"ali",
+			"alig",
+			"num",
+			"alig",
+			"num",
+			"num-nbest",
+			"set_full_result_handler",
+			"do-phone",
+			"do-phone-",
+			"do-phone-alignment",
+			"_on_full_result",
+			"full_result_handler",
+			"adaptation",
+			"save",
+			"_on_full_final_result",
+			"full-final-result",
+			"do-phone-al",
+			"do-phone-ali",
+			"do-phone-align",
+			"alig",
+			"do-phone-align",
+			"do-phone-alignment=true",
+			"ogg",
+			"al",
+			"(\"%\\",
+			"lol",
+			"split",
+			"playing",
+			"is playing",
+			"t1",
+			"1000",
+			"t1",
+			"1000*",
+			"t1",
+			"sentences.db",
+			"audio/al",
+			"/audio/al",
+			"audio/cc",
+			"sentplus.db",
+			"_messageField",
+			"messageField",
+			"tapEvent",
+			"eventName",
+			" Button",
+			"eventName",
+			"sendChatMessageButtonTapEvent",
+			"global.sentences",
+			"gsentences",
+			"global.sentences",
+			"Timer",
+			"eventName",
+			"endMessageButtonCaptio",
+			"messageField",
+			"get",
+			"IChatMessage",
+			"isRight",
+			"SendMessageTappedEventData",
+			"notifyOnSendMessageTap",
+			"createAnswer",
+			"_messageField",
+			"_sendChatMessageButtonTapEventListeners",
+			"notifyOnSendMessageTap",
+			"sendChatMessageButtonTapEvent",
+			"SendMessageTappedEventData",
+			"_messageField.text",
+			"SendMessageTappedEventData",
+			"sendChatMessageButtonTapEventListeners",
+			"SendMessageTappedEventData",
+			"notifyOnSendMessageTap",
+			"sendMessageButton",
+			"sendMessageButtonCaption",
+			"getSimilarity",
+			"alert",
+			"marcel",
+			"alert",
+			"NativeScriptApplication",
+			"andr",
+			"class",
+			"NativeScriptA",
+			"Naitiv",
+			"ViewModel",
+			"page",
+			"page.bindingCont",
+			"page.bindingContex",
+			"ViewModel",
+			"timer",
+			"TypeUtils",
+			"\";\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"target_probab_fp",
+			"num_elements",
+			"#print",
+			"np",
+			"",
+			"sentplus.db",
+			"audio/cc",
+			"audio/al",
+			"sentences.db",
+			"gsentences",
+			"global.sentences",
+			"sento",
+			"NativeScriptApplication2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "bootstrap.js.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
